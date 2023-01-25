@@ -1,7 +1,7 @@
 
 #!/bin/bash
 
-cat /home/amarzana/.config/openbox/rc.xml		\
+cat ~/.config/openbox/rc.xml		\
 	| grep 'AMC'								\
 	| sed 's/AMC//g'| sed 's/<!\-\- //g'		\
 	| sed 's/<keybind key=/	/g'					\
