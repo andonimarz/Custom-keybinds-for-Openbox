@@ -1,6 +1,7 @@
 # Custom-keybinds-for-Openbox
 
-A custom config file with some new keybinds for window switching and snapping and a script that shows in a pop-up window all the available keybinds. Just press ESC and it will disappear.
+A custom config file with some new keybinds for window switching and snapping.
+A script that shows in a pop-up window all the available keybinds. Just press ESC and it will disappear.
 
 ## Installation
 
