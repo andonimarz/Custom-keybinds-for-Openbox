@@ -17,7 +17,7 @@ Paste the new rc.xml and keybinds files and reconfigure openbox.
 
     openbox --reconfigure
 
-Now pressing Ctr+Alt+K you should see all the available keybinds including some new.
+Now pressing Ctr+Alt+K and a pop-up window should appear with all the available keybinds including some new.
 Just press ESC and it will disappear.
 
 	Desktop switching 
