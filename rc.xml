@@ -49,7 +49,7 @@
     <!--  Lubuntu specific : Theme = Lubuntu and font = Ubuntu
   -->
     <name>Nord-Openbox</name>
-    <titleLayout>LIMC</titleLayout>
+    <titleLayout>CIML</titleLayout>
     <!--
     available characters are NDSLIMC, each can occur at most once.
     N: window icon
